@@ -16,4 +16,4 @@ a false positive and you can verify the source code yourself.
 5. Enter how many days before the due dates before the alerts will notify you
 6. Create the alert
 
-The program will read your excel file and notify you if any of the due dates are near.
+The program will read your excel file and notify you at startup if any of the due dates are near.
